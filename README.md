@@ -1,4 +1,4 @@
-## Exploratory Analysis on Human Resource Data
+# Exploratory Analysis on Human Resource Data
 <br>
 
 **Code:** Check out my completed Jupyter Notebook above (Project Notebook.ipynb)
