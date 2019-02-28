@@ -1,6 +1,5 @@
 ## Exploratory Analysis on Human Resource Data
 <br>
-<br>
 Code: Check out my completed Jupyter Notebook above (Wine ML.ipynb)
 <br>
 <br>
