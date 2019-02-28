@@ -1,8 +1,12 @@
 ## Exploratory Analysis on Human Resource Data
+<br>
+<br>
+Code: Check out my completed Jupyter Notebook above (Wine ML.ipynb)
+<br>
+<br>
 
 **Project Outline:** 
-<br>
-<br>
+
 1: What is the distribution of education levels applying to Academics? 
 <br>
 2: Visualizing current status based on education level using a stacked bar chart. 
