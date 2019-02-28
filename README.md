@@ -4,7 +4,6 @@
 **Code:** Check out my completed Jupyter Notebook above (Project Notebook.ipynb)
 
 <br>
-<br>
 
 **Project Outline:** 
 
