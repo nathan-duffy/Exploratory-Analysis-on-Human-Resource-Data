@@ -28,4 +28,4 @@
 **Findings:**
 <br>
 <br>
-I did my best to answer my stakeholder’s original question, and I was able to give some insight into the problem at hand.  I found out that a lot less of the doctoral candidates are applying than other educational levels, more than half of them were categorized as ‘Not a Fit’, they are desiring higher salaries, and mostly applying to be research analysts.  I was then able to provide a detailed report to my stakeholder with new information to the department make more informed decisions in their hiring process backed by data that was then implemented.
+I did my best to answer my stakeholder’s original question, and I was able to give some insight into the problem at hand.  I found out that a lot less of the doctoral candidates are applying than other educational levels, more than half of them were categorized as ‘Not a Fit’, they are desiring higher salaries, and mostly applying to be research analysts.  I was then able to provide a detailed report to my stakeholder with to give the department the opportunity to make more informed decisions in their hiring process backed by data that was then implemented.
