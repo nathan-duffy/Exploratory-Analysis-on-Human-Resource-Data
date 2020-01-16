@@ -1,6 +1,8 @@
 ## Exploratory Analysis on Human Resource Data
 <br>
 
+**Overview:** An academic company in Denver provided me a dataset of applicant tracking data and wanted to see what interesting trends and patterns I could find.  However, I was specifically tasked with finding out why so many of their doctoral candidates were slipping through the cracks.
+
 **Code:** Check out my completed Jupyter Notebook above (Project Notebook.ipynb)
 
 <br>
