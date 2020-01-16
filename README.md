@@ -1,7 +1,9 @@
 ## Exploratory Analysis on Human Resource Data
 <br>
 
-**Overview:** An academic company in Denver provided me a dataset of applicant tracking data and wanted to see what interesting trends and patterns I could find.  However, I was specifically tasked with finding out why so many of their doctoral candidates were slipping through the cracks.
+**Overview:** 
+
+An academic company in Denver provided me a dataset of applicant tracking data and wanted to see what interesting trends and patterns I could find.  However, I was specifically tasked with finding out why so many of their doctoral candidates were slipping through the cracks.
 
 **Code:** Check out my completed Jupyter Notebook above (Project Notebook.ipynb)
 
@@ -28,6 +30,5 @@
 9: Attempting to predict position based on education level and desired salary.
 
 **Findings:**
-<br>
-<br>
+
 I did my best to answer my stakeholder’s original question, and I was able to give some insight into the problem at hand.  I found out that a lot less of the doctoral candidates are applying than other educational levels, more than half of them were categorized as ‘Not a Fit’, they are desiring higher salaries, and mostly applying to be research analysts.  I was then able to provide a detailed report to my stakeholder with to give the department the opportunity to make more informed decisions in their hiring process backed by data that was then implemented.
